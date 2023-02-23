@@ -42,7 +42,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://searx.org/image_proxy?url=https%3A%2F%2Flive.staticflickr.com%2F4851%2F45448925425_cfa55e509e_b.jpg&h=801883e82fcc39713c8d127aabbddb58b91e40a6a8b31f5764526797fd840a51);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
