@@ -39,7 +39,7 @@
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
   --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
-  --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
+  --stars: url(https://searx.org/image_proxy?url=https%3A%2F%2Flive.staticflickr.com%2F4851%2F45448925425_cfa55e509e_b.jpg&h=801883e82fcc39713c8d127aabbddb58b91e40a6a8b31f5764526797fd840a51);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
