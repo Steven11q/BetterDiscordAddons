@@ -13,13 +13,14 @@
 */
 @import url(https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css);
 @import url(https://raw.githubusercontent.com/Steven11q/BetterDiscordAddons/master/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://raw.githubusercontent.com/Steven11q/BetterDiscordAddons/master/Themes/BlurpleRecolor/Black%20Hole%20Copy);
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  
+  --dplus-backdrop: url(https://searx.org/image_proxy?url=https%3A%2F%2Flive.staticflickr.com%2F4851%2F45448925425_cfa55e509e_b.jpg&h=801883e82fcc39713c8d127aabbddb58b91e40a6a8b31f5764526797fd840a51);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
