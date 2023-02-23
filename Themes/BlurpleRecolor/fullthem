@@ -20,7 +20,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://searx.org/image_proxy?url=https%3A%2F%2Flive.staticflickr.com%2F4851%2F45448925425_cfa55e509e_b.jpg&h=801883e82fcc39713c8d127aabbddb58b91e40a6a8b31f5764526797fd840a51);
+  --dplus-backdrop: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hubble_donotielloii_potw2306a.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
