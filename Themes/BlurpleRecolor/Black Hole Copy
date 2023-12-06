@@ -53,6 +53,7 @@
   --veil: rgba(100, 100, 100, 0.2);
 
 
+
   --online: rgb(67, 181, 129);
   --online-sheer: rgba(67, 181, 129, 0.267);
   /* color for online status */
@@ -3305,3 +3306,7 @@ background-attachment: fixed;
 }
 
 /* XIV. Addon Optimization */
+.theme-light, .theme-dark, .theme-amoled {
+--background-primary: rgba(var(--transparencycolor), .2);
+--background-secondary: rgba(var(--transparencycolor), .3);
+}
